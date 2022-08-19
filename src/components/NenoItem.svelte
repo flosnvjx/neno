@@ -193,7 +193,7 @@
         />
     {:else}
         <div
-                class="list-decimal text-sm text-red-300  whitespace-no-wrap "
+                class="list-decimal whitespace-no-wrap "
                 style="height:revert"
         >
             <p class="whitespace-no-wrap ">
